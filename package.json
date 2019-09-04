@@ -8,7 +8,9 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {
-    "jest": "^24.8.0"
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "mock-fs": "^4.10.1"
   }
 }
